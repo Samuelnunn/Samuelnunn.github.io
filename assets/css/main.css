@@ -268,6 +268,18 @@ input, select, textarea {
         margin-bottom: 10px;
     }
 
+    .icon-below-pic{
+        width: 100%;
+    }
+
+    #image-rn{
+        width: 100%;
+    }
+
+    .wrapper.style2{
+        padding: 0;
+    }
+
 /* Container */
 
 	.container {
@@ -286,6 +298,7 @@ input, select, textarea {
                 height: 215px;
                 padding-top: 20px;
             }
+            
 
 		}
 
@@ -2249,8 +2262,7 @@ article{
 	}
 
 		.wrapper.style2 {
-			padding-top: 0;
-            padding-bottom: 0;
+padding: 0;
 		}
 
 /* Header */
